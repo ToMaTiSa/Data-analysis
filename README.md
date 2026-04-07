@@ -7,3 +7,20 @@ Repositorio con algunos proyectos de análisis de datos en phyton, incluyendo:
 -Análisis de texto.
 
 -Machine Learning.
+
+
+Para esto se usan principalmente las librerias:
+
+-numpy
+
+-pandas
+
+-matplotlib
+
+-seaborn
+
+
+-nltk
+
+
+sklearn
