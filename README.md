@@ -23,4 +23,4 @@ Para esto se usan principalmente las librerias:
 -nltk
 
 
-sklearn
+-sklearn
