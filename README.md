@@ -1,4 +1,4 @@
-Repositorio con algunos proyectos de análisis de datos en phyton, incluyendo:
+Repositorio con algunos proyectos de análisis de datos en phyton usando Jupyter notebook + PostgreSQL, incluyendo:
 
 -Limpieza y análisis exploratorio de datos.
 
@@ -24,3 +24,5 @@ Para esto se usan principalmente las librerias:
 
 
 -sklearn
+
+-sqlalchemy
